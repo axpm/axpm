@@ -1,10 +1,9 @@
 ### Hi there 👋 I'm Alex Prieto!
+![Hello](./images/hello.gif)
 
 - 💻 I'm an Engineer in Computer Science. 
 - 🌱 I’m currently learning about Data Science and Big Data.
 - 📫 You can reach me at my email: [prietomaciasalejandro@gmail.com](mailto:prietomaciasalejandro@gmail.com)  
-
-![Hello](./images/hello.gif)
 
 <!--
 **axpm/axpm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
