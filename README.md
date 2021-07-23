@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning about Data Science and Big Data.
 - 📫 You can reach me at my email: [prietomaciasalejandro@gmail.com](mailto:prietomaciasalejandro@gmail.com)  
 
-![Hello](./Images/hello.png)
+![Hello](./images/hello.gif)
 
 <!--
 **axpm/axpm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
