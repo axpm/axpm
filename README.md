@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Alex Prieto!
 
-- 💻 I studied Computer Science and Engeeniering. 
+- 💻 I studied Computer Science and Engineering. 
 - 🌱 I’m currently learning about Data Science and Big Data.
 - 📫 You can reach me at my email: [prietomaciasalejandro@gmail.com](mailto:prietomaciasalejandro@gmail.com)  
 
