@@ -3,7 +3,7 @@
 
 - 💻 I'm an Engineer in Computer Science. 
 - 😄 Pronouns: he/him
-- 🌱 I’m currently learning about Data Science and Big Data.
+- 🌱 I’m currently learning about Machine Learning and Big Data.
 - 📫 You can reach me at my email: [prietomaciasalejandro@gmail.com](mailto:prietomaciasalejandro@gmail.com)  
 
 <!--
